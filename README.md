@@ -1,4 +1,4 @@
-Customer trends Behavior Analysis
+Customer Shopping Behavior Analysis
 
 📌 Overview
 
